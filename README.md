@@ -9,4 +9,4 @@ A simple responsive single-page interactive dashboard
 - JavaScript
 
 ## Live URL
-
+https://task-dashdoard.netlify.app/
